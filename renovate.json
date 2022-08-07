@@ -1,7 +1,0 @@
-{
-  "lockFileMaintenance": {
-    "enabled": false,
-    "schedule": ["at any time"]
-  },
-  "baseBranches": ["main","dev"]
-}
